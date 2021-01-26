@@ -45,6 +45,5 @@ Functions:
 
   -plsnipals.m: NIPALS algorithm for PLS regression
 
-  -pretreat.m: Data pretreatment for plscv
 
 This work was supported by the UK Engineering & Physical Sciences Research Council (EPSRC) [EP/P006485/1] and a consortium of industrial users and sector organizations in the Future Targeted Healthcare Manufacturing Hub hosted by UCL Biochemical Engineering in collaboration with UK universities. CFPS is envisioned as a potential solution for the simplified, robust, flexible and local production of stratified or personalised biotherapeutic medicines, as might be necessary in a future pharmacy or hospital setting.
