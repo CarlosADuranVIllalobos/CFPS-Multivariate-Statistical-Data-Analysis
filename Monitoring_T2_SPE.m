@@ -1,6 +1,6 @@
 
 %% Monitoring_T2_SPE.m
-% Script to use PLS monitoring techniques the prediction accuracy on
+% Script to use PLS monitoring techniques
 % D3 & D4.
 % With a few modifications it can calculate the accuracy of different datasets.
 
