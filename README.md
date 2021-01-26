@@ -3,28 +3,49 @@ Multivariate Statistical Data Analysis of a Cell-Free Protein synthesis: This wo
 
 Data-sets: D1-D5.xlsx
 
+
 Scripts:
+
 -PCA_all.m: PCA analysis of all the data-sets (initial and final values)
+
 -PCA_D1D2.m:
+
 -PCA_D5.m:
+
 -PLS_D2D3D5.m:
+
 -MPLS_D3D4.m:
+
 -Pred_accuracy.m:
+
 -Pred_accuracy_bytime.m:
+
 -Uneven_vectors_accuracy.m:
 
+
 Functions:
+
 -predm.m:
+
 -predpoly.m:
+
 -predlinear.m:
+
 -clim.m:
+
 -polypls.m:
+
 -polypred.m:
+
 -plsnip.m:
 
+
 Functions from other authors:
-plscv.m:
-plsnipals.m:
-pretreat.m:
+
+-plscv.m:
+
+-plsnipals.m:
+
+-pretreat.m:
 
 This work was supported by the UK Engineering & Physical Sciences Research Council (EPSRC) [EP/P006485/1] and a consortium of industrial users and sector organizations in the Future Targeted Healthcare Manufacturing Hub hosted by UCL Biochemical Engineering in collaboration with UK universities. CFPS is envisioned as a potential solution for the simplified, robust, flexible and local production of stratified or personalised biotherapeutic medicines, as might be necessary in a future pharmacy or hospital setting.
