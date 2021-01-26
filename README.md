@@ -41,13 +41,10 @@ Functions:
 
   -plsnip.m: Function to calculate PLS regressionfor only one LV.
 
+  -plscv.m: K-fold Cross-validation for PLS regression
 
-Functions from other authors:
+  -plsnipals.m: NIPALS algorithm for PLS regression
 
-  -plscv.m: K-fold Cross-validation for PLS, Hongdong Li, Oct. 16, 2008.
-
-  -plsnipals.m: NIPALS algorithm for both PLS-1 (a single y) and PLS-2 (multiple Y), Hongdong Li, Feb, 2014
-
-  -pretreat.m: Data pretreatment for plscv, Hongdong Li, Oct. 16, 2008. 
+  -pretreat.m: Data pretreatment for plscv
 
 This work was supported by the UK Engineering & Physical Sciences Research Council (EPSRC) [EP/P006485/1] and a consortium of industrial users and sector organizations in the Future Targeted Healthcare Manufacturing Hub hosted by UCL Biochemical Engineering in collaboration with UK universities. CFPS is envisioned as a potential solution for the simplified, robust, flexible and local production of stratified or personalised biotherapeutic medicines, as might be necessary in a future pharmacy or hospital setting.
