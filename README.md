@@ -1,5 +1,5 @@
 # CFPS-Multivariate-Statistical-Data-Analysis
-Multivariate Statistical Data Analysis of a Cell-Free Protein synthesis: This work provides necessary data, scripts and functions useful to provide important insights that can help support the operation and control of CFPS processes. This work was used to provide the results provided in the article "Multivariate statistical data analysis of cell-free protein synthesis towards monitoring and control.", AIChE Journal. The prediction accuracy resuslts of the different algorithms change significantly from the published work due to the normalization of yield, aggregate% and monomer% done for confidentiality protection reasons. 
+Multivariate Statistical Data Analysis of a Cell-Free Protein synthesis: This work provides necessary data, scripts and functions useful to provide important insights that can help support the operation and control of CFPS processes. This work was used to provide the results provided in the article "Multivariate statistical data analysis of cell-free protein synthesis towards monitoring and control.", AIChE Journal. The prediction accuracy results of the different algorithms change significantly from the published work due to the normalization of yield, aggregate% and monomer% done for confidentiality protection reasons. 
 DOI: 10.5281/zenodo.4469875
 
 Data-sets: D1-D5.xlsx
